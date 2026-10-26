@@ -723,6 +723,7 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 * [Adobe Firefly](https://www.adobe.com/products/firefly.html) - Adobe's generative AI, trained on licensed content.
 * [Ideogram](https://ideogram.ai/) - Strong text-in-image generation capabilities.
 * [Leonardo.AI](https://leonardo.ai/) - AI image generation focused on game assets and consistency.
+* [PromptImage](https://promptimage.cloud) - Free AI image & video studio with prompt library; freemium signup credits, no card required.
 * [Seedream](https://seed.bytedance.com/en/seedream4_0) - ByteDance image generation and editing model family for high-resolution image creation, multimodal editing, and reference-guided visual workflows.
 
 **[⬆ back to top](#contents)**
@@ -1296,6 +1297,7 @@ AI governance frameworks and regulations by jurisdiction.
 ##### Video
 
 * [Fliki](https://www.fliki.ai/) - Video creation tool.
+* [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); free trial credits.
 * [Lumen5](https://www.lumen5.com/) - AI-powered platform for engaging video content creation.
 * [Synthesia](https://www.synthesia.io/) - Generates videos from text inputs.
 * [DeepBrain AI](https://www.deepbrain.ai/) - Video tool.
