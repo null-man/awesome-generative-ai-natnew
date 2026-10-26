@@ -1298,6 +1298,9 @@ AI governance frameworks and regulations by jurisdiction.
 
 * [Fliki](https://www.fliki.ai/) - Video creation tool.
 * [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); free trial credits.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 * [Lumen5](https://www.lumen5.com/) - AI-powered platform for engaging video content creation.
 * [Synthesia](https://www.synthesia.io/) - Generates videos from text inputs.
 * [DeepBrain AI](https://www.deepbrain.ai/) - Video tool.
